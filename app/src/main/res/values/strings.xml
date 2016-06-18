@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeRightBack</string>
+    <string name="choose_application">Choose Application</string>
+    <string name="accessibility_description">Description</string>
+    <string-array name="reninderDelays">
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+    </string-array>
+</resources>

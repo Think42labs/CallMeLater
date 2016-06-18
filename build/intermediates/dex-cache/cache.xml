@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1ac74559245776487aa2c893bcc2c80204526848">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\instant-run_f45909a16004ac81e6159760c45f2602fdfdb043.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="251eb1758c1bb8cdaa1b1bf9f4b0bfb62560d912">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_46d07ee409278855174d927f3ebf411443e79df2.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0fe09065d2ba63073dcf440ab14cb6c52c35870e.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b49926b484556ad76c79c93041e8f876f83ba177.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_66b262f1e94f5a2ac45154eb3905c21704e7fe48.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5ff101d104756a8da0048ce0529cf6e117a4b3c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\surendiran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e2e62c9bb7da366df6fb0dc5a45094dd7cd59ef1.jar" />
+    </item>
+    <item
+        jar="D:\Karthik\Android\CallMeLater\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Karthik\Android\CallMeLater\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_20075a00ceef1d3391901003749c02b40857831a.jar" />
+    </item>
+
+</items>
